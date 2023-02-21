@@ -1,0 +1,2 @@
+python FakeImageDetect.py
+pause
